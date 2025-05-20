@@ -1,0 +1,6 @@
+2025-03-14T23:44:17+00:00 GWTN141-10#04 I: Start test public:3:nfa_to_dfa.
+2025-03-14T23:44:17+00:00 GWTN141-10#04 I: Test public:3:nfa_to_dfa is successful.
+2025-03-14T23:44:17+00:00 GWTN141-10#04 I: End test public:3:nfa_to_dfa.
+2025-03-14T23:44:17+00:00 GWTN141-10#04 I: Start test public:6:nfa_new_states.
+2025-03-14T23:44:17+00:00 GWTN141-10#04 I: Test public:6:nfa_new_states is successful.
+2025-03-14T23:44:17+00:00 GWTN141-10#04 I: End test public:6:nfa_new_states.

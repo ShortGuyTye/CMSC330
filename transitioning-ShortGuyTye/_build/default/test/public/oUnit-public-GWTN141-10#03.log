@@ -1,0 +1,6 @@
+2025-03-14T23:44:17+00:00 GWTN141-10#03 I: Start test public:2:nfa_move.
+2025-03-14T23:44:17+00:00 GWTN141-10#03 I: Test public:2:nfa_move is successful.
+2025-03-14T23:44:17+00:00 GWTN141-10#03 I: End test public:2:nfa_move.
+2025-03-14T23:44:17+00:00 GWTN141-10#03 I: Start test public:7:nfa_new_trans.
+2025-03-14T23:44:17+00:00 GWTN141-10#03 I: Test public:7:nfa_new_trans is successful.
+2025-03-14T23:44:17+00:00 GWTN141-10#03 I: End test public:7:nfa_new_trans.

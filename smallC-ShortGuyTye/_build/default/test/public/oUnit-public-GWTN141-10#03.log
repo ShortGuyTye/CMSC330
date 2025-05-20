@@ -1,0 +1,48 @@
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: Start test public:2:parse_define1.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: Test public:2:parse_define1 is successful.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: End test public:2:parse_define1.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: Start test public:5:parse_exp2.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: Test public:5:parse_exp2 is successful.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: End test public:5:parse_exp2.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: Start test public:11:parse_main.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: Test public:11:parse_main is successful.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: End test public:11:parse_main.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: Start test public:15:parse_print.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: Test public:15:parse_print is successful.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: End test public:15:parse_print.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: Start test public:16:parse_test1.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: Test public:16:parse_test1 is successful.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: End test public:16:parse_test1.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: Start test public:23:eval_expr_basic.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: Test public:23:eval_expr_basic is successful.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: End test public:23:eval_expr_basic.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: Start test public:24:eval_expr_ops.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: Test public:24:eval_expr_ops is successful.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: End test public:24:eval_expr_ops.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: Start test public:28:eval_define_1.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: Test public:28:eval_define_1 is successful.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: End test public:28:eval_define_1.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: Start test public:31:eval_assign_2.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: Test public:31:eval_assign_2 is successful.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: End test public:31:eval_assign_2.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: Start test public:34:eval_equal.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: Test public:34:eval_equal is successful.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: End test public:34:eval_equal.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: Start test public:36:eval_exp_1.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: Test public:36:eval_exp_1 is successful.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: End test public:36:eval_exp_1.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: Start test public:39:eval_ifelse.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: Test public:39:eval_ifelse is successful.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: End test public:39:eval_ifelse.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: Start test public:41:eval_while.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: Test public:41:eval_while is successful.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: End test public:41:eval_while.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: Start test public:44:eval_nested_while.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: Test public:44:eval_nested_while is successful.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: End test public:44:eval_nested_while.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: Start test public:47:eval_test_2.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: Test public:47:eval_test_2 is successful.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: End test public:47:eval_test_2.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: Start test public:49:eval_stmt_fail_basic.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: Test public:49:eval_stmt_fail_basic is successful.
+2025-04-04T22:07:55+00:00 GWTN141-10#03 I: End test public:49:eval_stmt_fail_basic.

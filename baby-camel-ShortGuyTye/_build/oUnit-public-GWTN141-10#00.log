@@ -1,0 +1,159 @@
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Runner: processes
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Chooser: simple
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Configuration suite_name = "public"
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Configuration cache_filename = "/home/mmcrey/cmsc330spring25/baby-camel-ShortGuyTye/_build/oUnit-$(suite_name).cache"
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Configuration run_gc_full_major = "true"
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Configuration display = "true"
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Configuration results_style_1_X = "false"
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Configuration testdata_dir = "none"
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Configuration health_check_interval = "1."
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Configuration verbose = "false"
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Configuration chooser = "simple"
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Configuration output_html_dir = "none"
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Configuration processes_kill_period = "5."
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Configuration runner = "processes"
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Configuration shards = "4"
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Configuration processes_grace_period = "5."
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Configuration log_encoding = "utf-8"
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Configuration output_junit_file = "none"
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Configuration ci = "false"
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Configuration output_file = "/home/mmcrey/cmsc330spring25/baby-camel-ShortGuyTye/_build/oUnit-$(suite_name)-$(shard_id).log"
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Using 4 workers maximum.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Starting worker number GWTN141-10#01.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Worker GWTN141-10#01 started.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Starting worker number GWTN141-10#02.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Worker GWTN141-10#02 started.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Starting worker number GWTN141-10#03.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Worker GWTN141-10#03 started.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Starting worker number GWTN141-10#04.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Worker GWTN141-10#04 started.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: 4 tests running: public:3:area, public:2:is_even, public:1:rev_tup, public:0:abs.
+2025-02-12T17:21:46+00:00 GWTN141-10#01 I: Start test public:0:abs.
+2025-02-12T17:21:46+00:00 GWTN141-10#02 I: Start test public:1:rev_tup.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: 4 tests running: public:3:area, public:2:is_even, public:1:rev_tup, public:0:abs.
+2025-02-12T17:21:46+00:00 GWTN141-10#01 W: Skip test public:0:abs: Test disabled.
+2025-02-12T17:21:46+00:00 GWTN141-10#02 W: Skip test public:1:rev_tup: Test disabled.
+2025-02-12T17:21:46+00:00 GWTN141-10#03 I: Start test public:2:is_even.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: 4 tests running: public:3:area, public:2:is_even, public:1:rev_tup, public:0:abs.
+2025-02-12T17:21:46+00:00 GWTN141-10#01 I: End test public:0:abs.
+2025-02-12T17:21:46+00:00 GWTN141-10#02 I: End test public:1:rev_tup.
+2025-02-12T17:21:46+00:00 GWTN141-10#03 W: Skip test public:2:is_even: Test disabled.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: 4 tests running: public:3:area, public:2:is_even, public:1:rev_tup, public:0:abs.
+2025-02-12T17:21:46+00:00 GWTN141-10#03 I: End test public:2:is_even.
+2025-02-12T17:21:46+00:00 GWTN141-10#04 I: Start test public:3:area.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: 4 tests running: public:5:pow, public:4:fibonacci, public:3:area, public:2:is_even.
+2025-02-12T17:21:46+00:00 GWTN141-10#02 I: Start test public:4:fibonacci.
+2025-02-12T17:21:46+00:00 GWTN141-10#01 I: Start test public:5:pow.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: 4 tests running: public:6:log, public:5:pow, public:4:fibonacci, public:3:area.
+2025-02-12T17:21:46+00:00 GWTN141-10#02 W: Skip test public:4:fibonacci: Test disabled.
+2025-02-12T17:21:46+00:00 GWTN141-10#01 W: Skip test public:5:pow: Test disabled.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: 4 tests running: public:6:log, public:5:pow, public:4:fibonacci, public:3:area.
+2025-02-12T17:21:46+00:00 GWTN141-10#02 I: End test public:4:fibonacci.
+2025-02-12T17:21:46+00:00 GWTN141-10#01 I: End test public:5:pow.
+2025-02-12T17:21:46+00:00 GWTN141-10#03 I: Start test public:6:log.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: 4 tests running: public:6:log, public:5:pow, public:4:fibonacci, public:3:area.
+2025-02-12T17:21:46+00:00 GWTN141-10#03 W: Skip test public:6:log: Test disabled.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: 4 tests running: public:8:zip, public:7:gcf, public:6:log, public:3:area.
+2025-02-12T17:21:46+00:00 GWTN141-10#03 I: End test public:6:log.
+2025-02-12T17:21:46+00:00 GWTN141-10#01 I: Start test public:7:gcf.
+2025-02-12T17:21:46+00:00 GWTN141-10#02 I: Start test public:8:zip.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: 4 tests running: public:8:zip, public:7:gcf, public:6:log, public:3:area.
+2025-02-12T17:21:46+00:00 GWTN141-10#01 W: Skip test public:7:gcf: Test disabled.
+2025-02-12T17:21:46+00:00 GWTN141-10#02 W: Skip test public:8:zip: Test disabled.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: 4 tests running: public:9:reverse, public:8:zip, public:7:gcf, public:3:area.
+2025-02-12T17:21:46+00:00 GWTN141-10#01 I: End test public:7:gcf.
+2025-02-12T17:21:46+00:00 GWTN141-10#02 I: End test public:8:zip.
+2025-02-12T17:21:46+00:00 GWTN141-10#03 I: Start test public:9:reverse.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: 4 tests running: public:9:reverse, public:8:zip, public:7:gcf, public:3:area.
+2025-02-12T17:21:46+00:00 GWTN141-10#03 W: Skip test public:9:reverse: Test disabled.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: 4 tests running: public:11:is_present, public:10:merge, public:9:reverse, public:3:area.
+2025-02-12T17:21:46+00:00 GWTN141-10#03 I: End test public:9:reverse.
+2025-02-12T17:21:46+00:00 GWTN141-10#02 I: Start test public:10:merge.
+2025-02-12T17:21:46+00:00 GWTN141-10#01 I: Start test public:11:is_present.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: 4 tests running: public:11:is_present, public:10:merge, public:9:reverse, public:3:area.
+2025-02-12T17:21:46+00:00 GWTN141-10#02 W: Skip test public:10:merge: Test disabled.
+2025-02-12T17:21:46+00:00 GWTN141-10#01 W: Skip test public:11:is_present: Test disabled.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: 4 tests running: public:12:every_nth, public:11:is_present, public:10:merge, public:3:area.
+2025-02-12T17:21:46+00:00 GWTN141-10#02 I: End test public:10:merge.
+2025-02-12T17:21:46+00:00 GWTN141-10#01 I: End test public:11:is_present.
+2025-02-12T17:21:46+00:00 GWTN141-10#03 I: Start test public:12:every_nth.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: 4 tests running: public:12:every_nth, public:11:is_present, public:10:merge, public:3:area.
+2025-02-12T17:21:46+00:00 GWTN141-10#03 W: Skip test public:12:every_nth: Test disabled.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: 4 tests running: public:14:max_func_chain, public:13:jumping_tuples, public:12:every_nth, public:3:area.
+2025-02-12T17:21:46+00:00 GWTN141-10#03 I: End test public:12:every_nth.
+2025-02-12T17:21:46+00:00 GWTN141-10#01 I: Start test public:13:jumping_tuples.
+2025-02-12T17:21:46+00:00 GWTN141-10#02 I: Start test public:14:max_func_chain.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: 4 tests running: public:14:max_func_chain, public:13:jumping_tuples, public:12:every_nth, public:3:area.
+2025-02-12T17:21:46+00:00 GWTN141-10#01 W: Skip test public:13:jumping_tuples: Test disabled.
+2025-02-12T17:21:46+00:00 GWTN141-10#02 W: Skip test public:14:max_func_chain: Test disabled.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: 4 tests running: public:15:is_there, public:14:max_func_chain, public:13:jumping_tuples, public:3:area.
+2025-02-12T17:21:46+00:00 GWTN141-10#01 I: End test public:13:jumping_tuples.
+2025-02-12T17:21:46+00:00 GWTN141-10#02 I: End test public:14:max_func_chain.
+2025-02-12T17:21:46+00:00 GWTN141-10#03 I: Start test public:15:is_there.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: 4 tests running: public:15:is_there, public:14:max_func_chain, public:13:jumping_tuples, public:3:area.
+2025-02-12T17:21:46+00:00 GWTN141-10#03 W: Skip test public:15:is_there: Test disabled.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: 4 tests running: public:17:uniq, public:16:count_occ, public:15:is_there, public:3:area.
+2025-02-12T17:21:46+00:00 GWTN141-10#04 I: Test public:3:area is successful.
+2025-02-12T17:21:46+00:00 GWTN141-10#03 I: End test public:15:is_there.
+2025-02-12T17:21:46+00:00 GWTN141-10#02 I: Start test public:16:count_occ.
+2025-02-12T17:21:46+00:00 GWTN141-10#01 I: Start test public:17:uniq.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: 4 tests running: public:17:uniq, public:16:count_occ, public:15:is_there, public:3:area.
+2025-02-12T17:21:46+00:00 GWTN141-10#04 I: End test public:3:area.
+2025-02-12T17:21:46+00:00 GWTN141-10#02 W: Skip test public:16:count_occ: Test disabled.
+2025-02-12T17:21:46+00:00 GWTN141-10#01 W: Skip test public:17:uniq: Test disabled.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Still 4 tests running : public:18:every_xth, public:17:uniq, public:16:count_occ, public:3:area.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: 4 tests running: public:18:every_xth, public:17:uniq, public:16:count_occ, public:3:area.
+2025-02-12T17:21:46+00:00 GWTN141-10#02 I: End test public:16:count_occ.
+2025-02-12T17:21:46+00:00 GWTN141-10#01 I: End test public:17:uniq.
+2025-02-12T17:21:46+00:00 GWTN141-10#03 I: Start test public:18:every_xth.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Still 3 tests running : public:18:every_xth, public:17:uniq, public:16:count_occ.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: 3 tests running: public:18:every_xth, public:17:uniq, public:16:count_occ.
+2025-02-12T17:21:46+00:00 GWTN141-10#03 W: Skip test public:18:every_xth: Test disabled.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Still 1 tests running : public:18:every_xth.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: 1 tests running: public:18:every_xth.
+2025-02-12T17:21:46+00:00 GWTN141-10#03 I: End test public:18:every_xth.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Still 1 tests running : public:18:every_xth.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: 1 tests running: public:18:every_xth.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: 0 tests running: .
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Worker GWTN141-10#04 has ended.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Worker GWTN141-10#02 has ended.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Worker GWTN141-10#01 has ended.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Worker GWTN141-10#03 has ended.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Used 4 worker during test execution.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Run 6 tests with shard GWTN141-10#03.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Run 6 tests with shard GWTN141-10#01.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Run 1 tests with shard GWTN141-10#04.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Run 6 tests with shard GWTN141-10#02.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Check health of shard GWTN141-10#03, 1 times.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Check health of shard GWTN141-10#01, 3 times.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Check health of shard GWTN141-10#04, 4 times.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Check health of shard GWTN141-10#02, 3 times.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: ==============
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Summary:
+2025-02-12T17:21:46+00:00 GWTN141-10#00 W: Skip test public:18:every_xth: Test disabled.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 W: Skip test public:17:uniq: Test disabled.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 W: Skip test public:16:count_occ: Test disabled.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Test public:3:area is successful.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 W: Skip test public:15:is_there: Test disabled.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 W: Skip test public:14:max_func_chain: Test disabled.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 W: Skip test public:13:jumping_tuples: Test disabled.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 W: Skip test public:12:every_nth: Test disabled.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 W: Skip test public:11:is_present: Test disabled.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 W: Skip test public:10:merge: Test disabled.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 W: Skip test public:9:reverse: Test disabled.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 W: Skip test public:8:zip: Test disabled.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 W: Skip test public:7:gcf: Test disabled.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 W: Skip test public:6:log: Test disabled.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 W: Skip test public:5:pow: Test disabled.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 W: Skip test public:4:fibonacci: Test disabled.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 W: Skip test public:2:is_even: Test disabled.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 W: Skip test public:1:rev_tup: Test disabled.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 W: Skip test public:0:abs: Test disabled.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Ran: 19 tests in: 0.10 seconds.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Cases: 19.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Tried: 19.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Errors: 0.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Failures: 0.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Skip: 18.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Todo: 0.
+2025-02-12T17:21:46+00:00 GWTN141-10#00 I: Timeout: 0.

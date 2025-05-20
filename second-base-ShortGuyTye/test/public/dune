@@ -1,0 +1,7 @@
+(tests
+ (names public)
+ (libraries p2b oUnit testUtils))
+(env
+ (dev
+   (flags (:standard -w -20))))
+

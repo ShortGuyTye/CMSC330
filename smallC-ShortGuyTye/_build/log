@@ -1,0 +1,19 @@
+# dune utop src
+# OCAMLPARAM: unset
+# Shared cache: enabled-except-user-rules
+# Shared cache location: /home/mmcrey/.cache/dune/db
+# Workspace root: /home/mmcrey/cmsc330spring25/smallC-ShortGuyTye
+# Auto-detected concurrency: 8
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /home/mmcrey/.opam/5.2.0/bin/ocamlc.opt -config > /tmp/dune_9db4be_output
+$ (cd _build/default && /home/mmcrey/.opam/5.2.0/bin/ocamlc.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs -w -27-32-33-34-39 -g -bin-annot -bin-annot-occurrences -I src/.p4.objs/byte -I /home/mmcrey/.opam/5.2.0/lib/re -I /home/mmcrey/.opam/5.2.0/lib/seq -intf-suffix .ml -no-alias-deps -opaque -open P4 -o src/.p4.objs/byte/p4__Eval.cmo -c -impl src/eval.ml)
+$ (cd _build/default && /home/mmcrey/.opam/5.2.0/bin/ocamlc.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs -w -27-32-33-34-39 -g -a -o src/p4.cma src/.p4.objs/byte/p4.cmo src/.p4.objs/byte/p4__TokenTypes.cmo src/.p4.objs/byte/p4__Lexer.cmo src/.p4.objs/byte/p4__SmallCTypes.cmo src/.p4.objs/byte/p4__Utils.cmo src/.p4.objs/byte/p4__Parser.cmo src/.p4.objs/byte/p4__Eval.cmo)
+$ (cd _build/default && /home/mmcrey/.opam/5.2.0/bin/ocamlc.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs -w -24 -g -o src/.utop/utop.bc /home/mmcrey/.opam/5.2.0/lib/ocaml/compiler-libs/ocamlcommon.cma /home/mmcrey/.opam/5.2.0/lib/ocaml/compiler-libs/ocamlbytecomp.cma /home/mmcrey/.opam/5.2.0/lib/ocaml/compiler-libs/ocamltoplevel.cma /home/mmcrey/.opam/5.2.0/lib/findlib/findlib.cma /home/mmcrey/.opam/5.2.0/lib/findlib/findlib_top.cma /home/mmcrey/.opam/5.2.0/lib/logs/logs.cma /home/mmcrey/.opam/5.2.0/lib/lwt/lwt.cma /home/mmcrey/.opam/5.2.0/lib/logs/logs_lwt.cma /home/mmcrey/.opam/5.2.0/lib/ocplib-endian/ocplib_endian.cma /home/mmcrey/.opam/5.2.0/lib/ocplib-endian/bigstring/ocplib_endian_bigstring.cma /home/mmcrey/.opam/5.2.0/lib/ocaml/unix/unix.cma /home/mmcrey/.opam/5.2.0/lib/ocaml/threads/threads.cma /home/mmcrey/.opam/5.2.0/lib/lwt/unix/lwt_unix.cma -I /home/mmcrey/.opam/5.2.0/lib/lwt/../stublibs /home/mmcrey/.opam/5.2.0/lib/react/react.cma /home/mmcrey/.opam/5.2.0/lib/lwt_react/lwt_react.cma /home/mmcrey/.opam/5.2.0/lib/result/result.cma /home/mmcrey/.opam/5.2.0/lib/uutf/uutf.cma /home/mmcrey/.opam/5.2.0/lib/uucp/uucp.cma /home/mmcrey/.opam/5.2.0/lib/uuseg/uuseg.cma /home/mmcrey/.opam/5.2.0/lib/zed/zed.cma /home/mmcrey/.opam/5.2.0/lib/trie/trie.cma /home/mmcrey/.opam/5.2.0/lib/mew/mew.cma /home/mmcrey/.opam/5.2.0/lib/mew_vi/mew_vi.cma /home/mmcrey/.opam/5.2.0/lib/lambda-term/lambda_term.cma -I /home/mmcrey/.opam/5.2.0/lib/lambda-term/../stublibs /home/mmcrey/.opam/5.2.0/lib/xdg/xdg.cma -I /home/mmcrey/.opam/5.2.0/lib/xdg/../stublibs /home/mmcrey/.opam/5.2.0/lib/utop/uTop.cma /home/mmcrey/.opam/5.2.0/lib/re/re.cma src/p4.cma src/.utop/.utop.eobjs/byte/dune__exe__Utop.cmo -linkall -warn-error -31)

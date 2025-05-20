@@ -1,0 +1,15 @@
+2025-03-13T17:51:29+00:00 GWTN141-10#01 I: Start test public:0:public_insert1.
+2025-03-13T17:51:29+00:00 GWTN141-10#01 I: Test public:0:public_insert1 is successful.
+2025-03-13T17:51:29+00:00 GWTN141-10#01 I: End test public:0:public_insert1.
+2025-03-13T17:51:29+00:00 GWTN141-10#01 I: Start test public:5:public_sort.
+2025-03-13T17:51:29+00:00 GWTN141-10#01 I: Test public:5:public_sort is successful.
+2025-03-13T17:51:29+00:00 GWTN141-10#01 I: End test public:5:public_sort.
+2025-03-13T17:51:29+00:00 GWTN141-10#01 I: Start test public:8:public_deleteAll.
+2025-03-13T17:51:29+00:00 GWTN141-10#01 I: Test public:8:public_deleteAll is successful.
+2025-03-13T17:51:29+00:00 GWTN141-10#01 I: End test public:8:public_deleteAll.
+2025-03-13T17:51:29+00:00 GWTN141-10#01 I: Start test public:12:public_in_order.
+2025-03-13T17:51:29+00:00 GWTN141-10#01 I: Test public:12:public_in_order is successful.
+2025-03-13T17:51:29+00:00 GWTN141-10#01 I: End test public:12:public_in_order.
+2025-03-13T17:51:29+00:00 GWTN141-10#01 I: Start test public:16:public_trim.
+2025-03-13T17:51:29+00:00 GWTN141-10#01 I: Test public:16:public_trim is successful.
+2025-03-13T17:51:29+00:00 GWTN141-10#01 I: End test public:16:public_trim.

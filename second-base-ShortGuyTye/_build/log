@@ -1,0 +1,21 @@
+# dune runtest -f
+# OCAMLPARAM: unset
+# Shared cache: enabled-except-user-rules
+# Shared cache location: /home/mmcrey/.cache/dune/db
+# Workspace root: /home/mmcrey/cmsc330spring25/second-base-ShortGuyTye
+# Auto-detected concurrency: 8
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /home/mmcrey/.opam/5.2.0/bin/ocamlc.opt -config > /tmp/dune_57c659_output
+$ (cd _build/default/test/pbt && ./pbt.exe)
+$ (cd _build/default/test/public && ./public.exe)
+> ..................
+> Ran: 18 tests in: 0.11 seconds.
+> OK

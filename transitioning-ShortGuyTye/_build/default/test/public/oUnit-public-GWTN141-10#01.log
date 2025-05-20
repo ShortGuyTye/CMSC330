@@ -1,0 +1,9 @@
+2025-03-14T23:44:17+00:00 GWTN141-10#01 I: Start test public:0:nfa_accept.
+2025-03-14T23:44:17+00:00 GWTN141-10#01 I: Test public:0:nfa_accept is successful.
+2025-03-14T23:44:17+00:00 GWTN141-10#01 I: End test public:0:nfa_accept.
+2025-03-14T23:44:17+00:00 GWTN141-10#01 I: Start test public:4:re_to_nfa.
+2025-03-14T23:44:17+00:00 GWTN141-10#01 I: Test public:4:re_to_nfa is successful.
+2025-03-14T23:44:17+00:00 GWTN141-10#01 I: End test public:4:re_to_nfa.
+2025-03-14T23:44:17+00:00 GWTN141-10#01 I: Start test public:8:nfa_new_finals.
+2025-03-14T23:44:17+00:00 GWTN141-10#01 I: Test public:8:nfa_new_finals is successful.
+2025-03-14T23:44:17+00:00 GWTN141-10#01 I: End test public:8:nfa_new_finals.

@@ -1,0 +1,216 @@
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Runner: processes
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Chooser: simple
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Configuration suite_name = "student"
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Configuration cache_filename = "/home/mmcrey/cmsc330spring25/baby-camel-ShortGuyTye/_build/default/test/student/oUnit-$(suite_name).cache"
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Configuration run_gc_full_major = "true"
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Configuration display = "true"
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Configuration results_style_1_X = "false"
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Configuration testdata_dir = "none"
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Configuration health_check_interval = "1."
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Configuration verbose = "false"
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Configuration chooser = "simple"
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Configuration output_html_dir = "none"
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Configuration processes_kill_period = "5."
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Configuration runner = "processes"
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Configuration shards = "4"
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Configuration processes_grace_period = "5."
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Configuration log_encoding = "utf-8"
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Configuration output_junit_file = "none"
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Configuration ci = "false"
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Configuration output_file = "/home/mmcrey/cmsc330spring25/baby-camel-ShortGuyTye/_build/default/test/student/oUnit-$(suite_name)-$(shard_id).log"
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Using 4 workers maximum.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Starting worker number GWTN141-10#01.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Worker GWTN141-10#01 started.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Starting worker number GWTN141-10#02.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Worker GWTN141-10#02 started.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Starting worker number GWTN141-10#03.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Worker GWTN141-10#03 started.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Starting worker number GWTN141-10#04.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Worker GWTN141-10#04 started.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:3:area, student:2:is_even, student:1:rev_tup, student:0:abs.
+2025-02-13T00:44:27+00:00 GWTN141-10#01 I: Start test student:0:abs.
+2025-02-13T00:44:27+00:00 GWTN141-10#02 I: Start test student:1:rev_tup.
+2025-02-13T00:44:27+00:00 GWTN141-10#03 I: Start test student:2:is_even.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:3:area, student:2:is_even, student:1:rev_tup, student:0:abs.
+2025-02-13T00:44:27+00:00 GWTN141-10#04 I: Start test student:3:area.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:3:area, student:2:is_even, student:1:rev_tup, student:0:abs.
+2025-02-13T00:44:27+00:00 GWTN141-10#01 I: Test student:0:abs is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:3:area, student:2:is_even, student:1:rev_tup, student:0:abs.
+2025-02-13T00:44:27+00:00 GWTN141-10#01 I: End test student:0:abs.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:3:area, student:2:is_even, student:1:rev_tup, student:0:abs.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:4:zip, student:3:area, student:2:is_even, student:1:rev_tup.
+2025-02-13T00:44:27+00:00 GWTN141-10#01 I: Start test student:4:zip.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:4:zip, student:3:area, student:2:is_even, student:1:rev_tup.
+2025-02-13T00:44:27+00:00 GWTN141-10#02 I: Test student:1:rev_tup is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:4:zip, student:3:area, student:2:is_even, student:1:rev_tup.
+2025-02-13T00:44:27+00:00 GWTN141-10#02 I: End test student:1:rev_tup.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:4:zip, student:3:area, student:2:is_even, student:1:rev_tup.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:5:fibonacci, student:4:zip, student:3:area, student:2:is_even.
+2025-02-13T00:44:27+00:00 GWTN141-10#02 I: Start test student:5:fibonacci.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:5:fibonacci, student:4:zip, student:3:area, student:2:is_even.
+2025-02-13T00:44:27+00:00 GWTN141-10#03 I: Test student:2:is_even is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:5:fibonacci, student:4:zip, student:3:area, student:2:is_even.
+2025-02-13T00:44:27+00:00 GWTN141-10#03 I: End test student:2:is_even.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:5:fibonacci, student:4:zip, student:3:area, student:2:is_even.
+2025-02-13T00:44:27+00:00 GWTN141-10#01 I: Test student:4:zip is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:5:fibonacci, student:4:zip, student:3:area, student:2:is_even.
+2025-02-13T00:44:27+00:00 GWTN141-10#01 I: End test student:4:zip.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:5:fibonacci, student:4:zip, student:3:area, student:2:is_even.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:6:pow, student:5:fibonacci, student:3:area, student:2:is_even.
+2025-02-13T00:44:27+00:00 GWTN141-10#01 I: Start test student:6:pow.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:6:pow, student:5:fibonacci, student:3:area, student:2:is_even.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:7:log, student:6:pow, student:5:fibonacci, student:3:area.
+2025-02-13T00:44:27+00:00 GWTN141-10#03 I: Start test student:7:log.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:7:log, student:6:pow, student:5:fibonacci, student:3:area.
+2025-02-13T00:44:27+00:00 GWTN141-10#02 I: Test student:5:fibonacci is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:7:log, student:6:pow, student:5:fibonacci, student:3:area.
+2025-02-13T00:44:27+00:00 GWTN141-10#01 I: Test student:6:pow is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:7:log, student:6:pow, student:5:fibonacci, student:3:area.
+2025-02-13T00:44:27+00:00 GWTN141-10#01 I: End test student:6:pow.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:7:log, student:6:pow, student:5:fibonacci, student:3:area.
+2025-02-13T00:44:27+00:00 GWTN141-10#04 I: Test student:3:area is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:8:gcf, student:7:log, student:5:fibonacci, student:3:area.
+2025-02-13T00:44:27+00:00 GWTN141-10#04 I: End test student:3:area.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:8:gcf, student:7:log, student:5:fibonacci, student:3:area.
+2025-02-13T00:44:27+00:00 GWTN141-10#01 I: Start test student:8:gcf.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:9:zip, student:8:gcf, student:7:log, student:5:fibonacci.
+2025-02-13T00:44:27+00:00 GWTN141-10#02 I: End test student:5:fibonacci.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:9:zip, student:8:gcf, student:7:log, student:5:fibonacci.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:10:reverse, student:9:zip, student:8:gcf, student:7:log.
+2025-02-13T00:44:27+00:00 GWTN141-10#02 I: Start test student:10:reverse.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:10:reverse, student:9:zip, student:8:gcf, student:7:log.
+2025-02-13T00:44:27+00:00 GWTN141-10#01 I: Test student:8:gcf is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#04 I: Start test student:9:zip.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:10:reverse, student:9:zip, student:8:gcf, student:7:log.
+2025-02-13T00:44:27+00:00 GWTN141-10#01 I: End test student:8:gcf.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:10:reverse, student:9:zip, student:8:gcf, student:7:log.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:11:merge, student:10:reverse, student:9:zip, student:7:log.
+2025-02-13T00:44:27+00:00 GWTN141-10#03 I: Test student:7:log is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:11:merge, student:10:reverse, student:9:zip, student:7:log.
+2025-02-13T00:44:27+00:00 GWTN141-10#03 I: End test student:7:log.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:11:merge, student:10:reverse, student:9:zip, student:7:log.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:12:is_present, student:11:merge, student:10:reverse, student:9:zip.
+2025-02-13T00:44:27+00:00 GWTN141-10#03 I: Start test student:12:is_present.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:12:is_present, student:11:merge, student:10:reverse, student:9:zip.
+2025-02-13T00:44:27+00:00 GWTN141-10#01 I: Start test student:11:merge.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:12:is_present, student:11:merge, student:10:reverse, student:9:zip.
+2025-02-13T00:44:27+00:00 GWTN141-10#02 I: Test student:10:reverse is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:12:is_present, student:11:merge, student:10:reverse, student:9:zip.
+2025-02-13T00:44:27+00:00 GWTN141-10#02 I: End test student:10:reverse.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:12:is_present, student:11:merge, student:10:reverse, student:9:zip.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:13:every_nth, student:12:is_present, student:11:merge, student:9:zip.
+2025-02-13T00:44:27+00:00 GWTN141-10#02 I: Start test student:13:every_nth.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:13:every_nth, student:12:is_present, student:11:merge, student:9:zip.
+2025-02-13T00:44:27+00:00 GWTN141-10#04 I: Test student:9:zip is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:13:every_nth, student:12:is_present, student:11:merge, student:9:zip.
+2025-02-13T00:44:27+00:00 GWTN141-10#03 I: Test student:12:is_present is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:13:every_nth, student:12:is_present, student:11:merge, student:9:zip.
+2025-02-13T00:44:27+00:00 GWTN141-10#01 I: Test student:11:merge is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#03 I: End test student:12:is_present.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:13:every_nth, student:12:is_present, student:11:merge, student:9:zip.
+2025-02-13T00:44:27+00:00 GWTN141-10#01 I: End test student:11:merge.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:14:jumping_tuples, student:13:every_nth, student:11:merge, student:9:zip.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:15:max_func_chain, student:14:jumping_tuples, student:13:every_nth, student:9:zip.
+2025-02-13T00:44:27+00:00 GWTN141-10#03 I: Start test student:14:jumping_tuples.
+2025-02-13T00:44:27+00:00 GWTN141-10#01 I: Start test student:15:max_func_chain.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:15:max_func_chain, student:14:jumping_tuples, student:13:every_nth, student:9:zip.
+2025-02-13T00:44:27+00:00 GWTN141-10#04 I: End test student:9:zip.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:15:max_func_chain, student:14:jumping_tuples, student:13:every_nth, student:9:zip.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:16:is_there, student:15:max_func_chain, student:14:jumping_tuples, student:13:every_nth.
+2025-02-13T00:44:27+00:00 GWTN141-10#02 I: Test student:13:every_nth is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#04 I: Start test student:16:is_there.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:16:is_there, student:15:max_func_chain, student:14:jumping_tuples, student:13:every_nth.
+2025-02-13T00:44:27+00:00 GWTN141-10#02 I: End test student:13:every_nth.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:16:is_there, student:15:max_func_chain, student:14:jumping_tuples, student:13:every_nth.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:17:count_occ, student:16:is_there, student:15:max_func_chain, student:14:jumping_tuples.
+2025-02-13T00:44:27+00:00 GWTN141-10#02 I: Start test student:17:count_occ.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:17:count_occ, student:16:is_there, student:15:max_func_chain, student:14:jumping_tuples.
+2025-02-13T00:44:27+00:00 GWTN141-10#03 I: Test student:14:jumping_tuples is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#01 I: Test student:15:max_func_chain is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:17:count_occ, student:16:is_there, student:15:max_func_chain, student:14:jumping_tuples.
+2025-02-13T00:44:27+00:00 GWTN141-10#03 I: End test student:14:jumping_tuples.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:17:count_occ, student:16:is_there, student:15:max_func_chain, student:14:jumping_tuples.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:18:uniq, student:17:count_occ, student:16:is_there, student:15:max_func_chain.
+2025-02-13T00:44:27+00:00 GWTN141-10#03 I: Start test student:18:uniq.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:18:uniq, student:17:count_occ, student:16:is_there, student:15:max_func_chain.
+2025-02-13T00:44:27+00:00 GWTN141-10#01 I: End test student:15:max_func_chain.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:18:uniq, student:17:count_occ, student:16:is_there, student:15:max_func_chain.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Still 4 tests running : student:19:every_xth, student:18:uniq, student:17:count_occ, student:16:is_there.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:19:every_xth, student:18:uniq, student:17:count_occ, student:16:is_there.
+2025-02-13T00:44:27+00:00 GWTN141-10#01 I: Start test student:19:every_xth.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Still 4 tests running : student:19:every_xth, student:18:uniq, student:17:count_occ, student:16:is_there.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:19:every_xth, student:18:uniq, student:17:count_occ, student:16:is_there.
+2025-02-13T00:44:27+00:00 GWTN141-10#02 I: Test student:17:count_occ is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Still 4 tests running : student:19:every_xth, student:18:uniq, student:17:count_occ, student:16:is_there.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:19:every_xth, student:18:uniq, student:17:count_occ, student:16:is_there.
+2025-02-13T00:44:27+00:00 GWTN141-10#02 I: End test student:17:count_occ.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Still 4 tests running : student:19:every_xth, student:18:uniq, student:17:count_occ, student:16:is_there.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 4 tests running: student:19:every_xth, student:18:uniq, student:17:count_occ, student:16:is_there.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Still 3 tests running : student:19:every_xth, student:18:uniq, student:16:is_there.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 3 tests running: student:19:every_xth, student:18:uniq, student:16:is_there.
+2025-02-13T00:44:27+00:00 GWTN141-10#03 I: Test student:18:uniq is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Still 3 tests running : student:19:every_xth, student:18:uniq, student:16:is_there.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 3 tests running: student:19:every_xth, student:18:uniq, student:16:is_there.
+2025-02-13T00:44:27+00:00 GWTN141-10#03 I: End test student:18:uniq.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Still 3 tests running : student:19:every_xth, student:18:uniq, student:16:is_there.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 3 tests running: student:19:every_xth, student:18:uniq, student:16:is_there.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Still 2 tests running : student:19:every_xth, student:16:is_there.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 2 tests running: student:19:every_xth, student:16:is_there.
+2025-02-13T00:44:27+00:00 GWTN141-10#01 I: Test student:19:every_xth is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Still 2 tests running : student:19:every_xth, student:16:is_there.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 2 tests running: student:19:every_xth, student:16:is_there.
+2025-02-13T00:44:27+00:00 GWTN141-10#01 I: End test student:19:every_xth.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Still 2 tests running : student:19:every_xth, student:16:is_there.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 2 tests running: student:19:every_xth, student:16:is_there.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Still 1 tests running : student:16:is_there.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 1 tests running: student:16:is_there.
+2025-02-13T00:44:27+00:00 GWTN141-10#04 I: Test student:16:is_there is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Still 1 tests running : student:16:is_there.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 1 tests running: student:16:is_there.
+2025-02-13T00:44:27+00:00 GWTN141-10#04 I: End test student:16:is_there.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Still 1 tests running : student:16:is_there.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 1 tests running: student:16:is_there.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: 0 tests running: .
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Worker GWTN141-10#02 has ended.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Worker GWTN141-10#01 has ended.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Worker GWTN141-10#04 died unexpectedly.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Worker GWTN141-10#03 died unexpectedly.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Used 4 worker during test execution.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Run 5 tests with shard GWTN141-10#03.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Run 7 tests with shard GWTN141-10#01.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Run 3 tests with shard GWTN141-10#04.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Run 5 tests with shard GWTN141-10#02.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Check health of shard GWTN141-10#03, 8 times.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Check health of shard GWTN141-10#01, 4 times.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Check health of shard GWTN141-10#04, 2 times.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Check health of shard GWTN141-10#02, 10 times.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: ==============
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Summary:
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Test student:16:is_there is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Test student:19:every_xth is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Test student:18:uniq is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Test student:17:count_occ is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Test student:15:max_func_chain is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Test student:14:jumping_tuples is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Test student:13:every_nth is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Test student:9:zip is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Test student:11:merge is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Test student:12:is_present is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Test student:10:reverse is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Test student:7:log is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Test student:8:gcf is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Test student:5:fibonacci is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Test student:3:area is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Test student:6:pow is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Test student:2:is_even is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Test student:4:zip is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Test student:1:rev_tup is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Test student:0:abs is successful.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Ran: 20 tests in: 0.11 seconds.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Cases: 20.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Tried: 20.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Errors: 0.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Failures: 0.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Skip: 0.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Todo: 0.
+2025-02-13T00:44:27+00:00 GWTN141-10#00 I: Timeout: 0.
